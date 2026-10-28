@@ -1,0 +1,6 @@
+{
+  "name": "El Banquetazo | Banquetería Gourmet & Eventos",
+  "description": "Banquetería y coctelería gourmet para eventos, graduaciones, empresas y matrimonios en Santiago. Cotiza online tus Packs y Box listos para servir con despacho directo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
